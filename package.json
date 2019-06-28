@@ -47,7 +47,8 @@
         "cheerio": "^1.0.0-rc.2",
         "clui": "^0.3.6",
         "commander": "^2.19.0",
-        "inquirer": "^5.1.0"
+        "inquirer": "^5.1.0",
+        "lodash.get": "^4.4.2"
     },
     "devDependencies": {
         "babel-cli": "^6.26.0",
